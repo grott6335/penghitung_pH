@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header('Penentuan pH', divider='rainbow')
+st.header('Penentuan ppp', divider='rainbow')
 
 angka_pertama = st.number_input('molaritas')
 st.write('The first number is ', angka_pertama)
